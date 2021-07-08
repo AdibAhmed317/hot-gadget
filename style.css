@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#hot-logo {
+  width: 220px;
+  height: 90px;
+}
+
+#product {
+  background-image: url(./assets/bg-1.png);
+  background-repeat: no-repeat;
+}
+
+#navBar-item {
+  margin-left: auto;
+}
+
+#car-des {
+  background-image: url(./assets/bg-2.png);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+
+#price {
+  margin-top: 50px;
+}
+
+#product-head {
+  margin-top: 150px;
+}
+
+#categories {
+  margin-top: 150px;
+  text-align: center;
+  font-size: 35;
+  background-image: url(./assets/Rectangle\ 5349@1X.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+#bag {
+  padding-right: 10px;
+}
+
+.carousel-item {
+  padding: 20px 40px;
+}
+
+.buy-now-button {
+  width: 179px;
+  height: 57px;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  background-image: url(./assets/arrow-forward@1X.png);
+  background-repeat: no-repeat;
+  background-position: 82% 56%;
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-body {
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+
+.cat-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
